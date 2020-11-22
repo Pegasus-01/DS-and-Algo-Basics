@@ -1,2 +1,3 @@
-# array_basics
-basic operations of an array using c
+# Data Structure Basics
+
+- This branch contains basic codes of data structures.
